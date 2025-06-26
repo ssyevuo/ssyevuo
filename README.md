@@ -1,4 +1,4 @@
-# Hi there, I'm Shakira Syevuo]! 👋
+# Hi there, I'm Shakira Syevuo! 👋
 
 ## About Me 🚀
 
