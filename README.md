@@ -9,8 +9,6 @@
 - 📫 How to reach me: **syevuoshakira@gmail.com**
 - ⚡ Fun fact: **I love swimming. My mum taught me the hard way by throwing me into the deep end. It worked 😄**
 
-## Get in Touch 📬
-
 <!--
 **ssyevuo/ssyevuo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
