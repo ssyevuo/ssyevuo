@@ -2,8 +2,8 @@
 
 ## About Me 🚀
 
-- I'm a passionate **Software Engineer**. 
-- I love tackling complex problems, learning new skills, and collaborating with diverse teams to create innovative solutions.
+- 💻 I'm a passionate **Software Engineer**. 
+- 👩🏽‍💻 I love tackling complex problems, learning new skills, and collaborating with diverse teams to create innovative solutions.
 
 - 🌱 Currently learning: **UI/UX in-depth**
 - 📫 How to reach me: **syevuoshakira@gmail.com**
